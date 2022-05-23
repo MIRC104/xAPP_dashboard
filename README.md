@@ -24,7 +24,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Editing
 
-Your can modify the code in `src/app/`, main changes should be done in here, including frontPage, Home, Tags, ImageHistory.
+Your can modify the code in `src/app/`, main changes should be done in here, including frontPage, Home, Tags and ImageHistory.
 
 ## Further help
 
